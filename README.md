@@ -1,35 +1,24 @@
-# Maker Trophy Coalition Challenge - The Basics
+# Maker Trophy Challenge - The Basics
 
-- You have from now until 6pm to produce an LED edge-lit Maker Trophy using a range of fabrication techniques featuring your coalition logo and colours
-- You will have between 12-1pm on Thursday to assemble and display your trophy at front desk
-- For fairness, each team will be given a dedicated time slot on the laser cutter, 3D printers and sewing machines. See REQUIRMENTS.md in each folder for details
-- Use of the different machines will be supported by someone from the admin team - you can ask them questions and for technical help but they can't do the work for you :)
-- Each team gets a lab PC to work on. Inkscape, FreeCAD and Arduino IDE are pre-installed. Laptops may also be used. FOSS software only!
-- All work must stop at 6pm - down tools!
-- You will have the chance to make one more 3D print each on the Bambu between 6pm and the next day (max 2 hours, set running by staff)
+[photo of existing trophies here]
+
+Welcome to our FabLab challenge project - to build an edge-lit LED trophy using an element from each of our Maker Basics training sessions: Electronics & Microcontrollers, 3D Printing, Laser Cutting, Woodwork and Textiles.
+
+The aim of the project is to get you comfortable with all the above techniques and to consider how to combine them. Each element is designed to be achievable in itself within just a few hours, but the challenge lies in bringing them all together in one object. Use the elements in this repo 'as is' or get as creative as you like, the choice is yours. After this, we hope you'll have some extra confidence to work in any of the above areas on your own projects.
+
+From computer-aided design (CAD), to soldering, working with LED strips and handcrafting, the Maker Trophy will be introduced in each of our Maker Basics training sessions, to give you a 'way in'. From there on, you can work on the project in teams or independently and collect stamps for each technique completed. When all five are done, display your meisterwerk in the lab alongside others :)
+
+To get going, simply let us know when you'd like to start, the names of your team members, then you have one month from that date to complete your final trophies (who doesn't like a deadline?!)
+
+The finished trophy must be entirely your own or your team's work - you can for tech support and demos from the admin team but they shouldn't do the work for you!
+Finally, free Open-Source Software (FOSS) is strongly preferred and is what we strive to use in the lab as far as possible. The assets in this repo have been produced with this in mind, using Inkscape, FreeCAD and Arduino IDE. These apps are also pre-installed on the main lab PCs.
 
 # The Techniques
 
 See separate REQUIREMENTS.md in each folder below for full details of what's expected:
 
 - [3D Printing](./3DPrinting): 3D print a lightweight base to house your and adapt the design (using FreeCAD)
-- [Soldering & Electronics](./Soldering&Electronics): Light an LED strip using an Arduino Nano using your coalition colours (using Arduino IDE)
-- [Laser Cutting](./LaserCutting): Produce an vector image of your coalition logo and cut and engrave it in acrylic (using Inkscape)
+- [Soldering & Electronics](./Soldering&Electronics): Light an LED strip using an Arduino Nano (using Arduino IDE)
+- [Laser Cutting](./LaserCutting): Produce an vector design and cut and engrave it in acrylic (using Inkscape)
 - [Woodworking](./Woodworking): Handcraft a wooden base to hold the trophy in place using a block of wood (using sawing, drilling and sanding techniques)
-- [Sewing](./Sewing): sew on a ribbon or add another textiles element (perhaps using a hole in the acrylic)
-
-# Points and Awards
-
-There are points for each completed element, for the trophy as a whole and for the winner of the public vote. Creativity bonuses for each section will only be awarded if the basic functionality is in place :)
-
-| Functionality                     | Points        | Creativity Bonus   |
-|-----------------------------------|---------------|--------------------|
-| Electronics & Microcontroller     | 60            | Up to 50           |
-| 3D Printed base                   | 60            | Up to 50           |
-| Laser cut acrylic piece           | 60            | Up to 50           |
-| Wooden base                       | 40            | Up to 50           | 
-| Additional textiles element       | 40            | Up to 50           |
-| **Total**                         | **250**       | **Total 250**      |
-| Bonus if all elements completed   | 100           | -                  |
-| Winner of the public vote         | 200           | -                  | 
-| **Final Total**                   | **800**       | -                  |
+- [Sewing](./Sewing): Sew on a ribbon or add another textiles element (perhaps using a hole in the acrylic)

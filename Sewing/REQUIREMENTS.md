@@ -1,15 +1,5 @@
 The aim here is simply to add a single machine-stitched textile element to your trophy. One example would be a ribbon, bow or other sewn element which can be tied through a hole or slot in your acrylic piece. Another would be a small curtain, which can reveal a plaque or name badge or other design feature. But if you have your own ideas, please feel free to get creative :)
 
-# Sewing Machine Schedule
-
-We have two basic sewing machines in the lab and each team will get one hour on each
-
-| Time   | Pfaff Passport | Pfaff Element |
-|--------|----------------|---------------|
-| 15-16h | Arctos         | Fulgens       |
-| 16-17h | Fulgens        | Melsurus      |
-| 17-18h | Melsurus       | Arctos        |
-
 # Requirements
 
 The finished textile element should...

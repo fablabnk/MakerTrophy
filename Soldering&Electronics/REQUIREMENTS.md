@@ -1,14 +1,14 @@
-The aim here is to use a microcontroller to light and control a short LED strip. This will be used to fire light into the bottom of your acrylic design and light up the engraved parts in your coalition colour. 
+The aim here is to use a microcontroller to light and control a short LED strip. This will be used to fire light into the bottom of your acrylic design and light up the engraved parts. 
 
 # Requirements:
 
-- The main lighting colour you use should be your coalition colour. Fading and other effects are strongly encouraged :)
 - An Arduino Nano is provided/recommended as the microcontroller (although in theory any microcontroller can be used)
 - Arduino IDE and Neopixel library are recommended on the software side
     - We recommend specifically "File -> Examples -> Adafruit Neopixel -> strandtest" as a starting point
 - The microcontroller should be powered from a simple 5V USB charger. Use no more than 5 LEDs to avoid burnout (see below)
 - The microcontroller, wiring and LED strip should fit well within your 3D printed base
 - Electrical connections should be solid, so soldering lengths of wire in place will be needed (particularly on the LED strip itself)
+- Fading and other effects are strongly encouraged :)
 
 # Tips
 
