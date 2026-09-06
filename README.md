@@ -1,4 +1,4 @@
-# Maker Trophy Challenge - The Basics
+# Maker Trophy Challenge Introduction
 
 <img src="./MakerTrophies.jpg" alt="Coalition Themed Maker Trophies" width="500"/>
 
