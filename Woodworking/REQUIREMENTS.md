@@ -1,4 +1,4 @@
-The aim here is to hand-craft a solid wooden base which connects to your 3D-printed base and keeps your trophy in place.
+The aim here is to hand-craft a solid wooden base which connects to your 3D-printed base and keeps your trophy in place. CNC milling is also possible, see the example project and video tutorial in the [CNC Milling folder]("../CNCMilling")
 
 The [FreeCAD project]("../3DPrinting") in the 3DPrinting folder already includes an example 3D model of the base, showing one option of how it might connect to the 3D printed section. To ensure your wooden base will match, it's recommended to complete your 3D print first, then take the dimensions and specifications directly from the FreeCAD project to produce the base.
 
